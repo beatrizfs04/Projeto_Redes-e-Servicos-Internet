@@ -54,7 +54,7 @@ as configurações efetuadas via CLI em cada router e nos switches, bem como as 
 de endereços.
 
 ## Quem participou?
-Este projeto foi realizado por mim, aluna da Lincenciatura de Informática Web, Móvel e na Nuvem.
+Este projeto foi realizado por mim no 1º ano da Lincenciatura de Informática Web, Móvel e na Nuvem.
 
 ## Que tecnologias foram utilizadas?
 - Packet Tracer
