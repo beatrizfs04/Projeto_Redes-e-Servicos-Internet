@@ -14,9 +14,9 @@ também asseguram a interligação internacional.
 empresa abc para disponibilizar acesso à rede.
 - isp-y — ISP (Internet Service Provider) apenas com um nó em Lisboa disponibiliza serviços de
 acesso para clientes residenciais. Aqui representados por casa/pc1-casa.
-- rossiya/isp-z—Ponto de acesso nacional russo e ISP (Internet Service Provider) através dos nós
+- rossiya/isp-z — Ponto de acesso nacional russo e ISP (Internet Service Provider) através dos nós
 rossiya e isp-z disponibiliza acesso para clientes locais representados por dom-x/kompyuter-x.
-- abc—Empresa abc que utiliza os serviços de rede disponibilizados pelo ISP isp-x tem escritórios
+- abc — Empresa abc que utiliza os serviços de rede disponibilizados pelo ISP isp-x tem escritórios
 em Braga e Lisboa.
 - google — Serviços Google de email, DNS e de pesquisa disponíveis.
 - INTERNET — Representa a Internet na topologia de modo a interligar as várias infraestruturas e
