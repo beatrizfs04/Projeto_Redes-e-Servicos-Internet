@@ -22,8 +22,7 @@ em Braga e Lisboa.
 - INTERNET — Representa a Internet na topologia de modo a interligar as várias infraestruturas e
 serviços em frame-relay.
 
-<img width="1398" height="494" alt="image" src="https://github.com/user-attachments/assets/ab62d523-ba95-445f-aeb6-557bb707d47e" />
-
+<img width="1682" height="595" alt="image" src="https://github.com/user-attachments/assets/cad77a32-7722-48e1-97ee-3eec7de4d4b2" />
 
 ### Tarefas
 - Adicionar todos os equipamentos.
