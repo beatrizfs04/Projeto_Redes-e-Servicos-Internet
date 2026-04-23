@@ -1,5 +1,5 @@
 
-# Projeto de Base de Dados
+# Projeto de Redes e Serviços Internet
 ## O que foi feito?
 Foi criada no Packet Tracer uma rede de acordo com a imagem. 
 
