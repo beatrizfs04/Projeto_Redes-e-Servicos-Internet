@@ -1,7 +1,7 @@
 
 # Projeto de Redes e Serviços Internet
 ## O que foi feito?
-Foi criada no Packet Tracer uma rede de acordo com a imagem. 
+Foi criada no Cisco Packet Tracer uma rede de acordo com a imagem. 
 
 ### Infraestruturas
 O Laboratório Final é composto pelas infraestruturas seguintes conforme indicado na rede descrita na imagem.
@@ -57,8 +57,8 @@ de endereços.
 Este projeto foi realizado por mim no 1º ano da Lincenciatura de Informática Web, Móvel e na Nuvem.
 
 ## Que tecnologias foram utilizadas?
-- Packet Tracer
+- Cisco Packet Tracer
 
 ## Como inicializar o projeto?
-Com o auxilio do Packet Tracer, abrir o documento "Trabalho.ptk"
+Com o auxilio do Cisco Packet Tracer, abrir o documento "Trabalho.ptk"
 
