@@ -5,21 +5,21 @@ Foi criada no Packet Tracer uma rede de acordo com a imagem.
 
 ### Infraestruturas
 O Laboratório Final é composto pelas infraestruturas seguintes conforme indicado na rede descrita na imagem.
-- gigapix — Ponto de Troca de Tráfego (Internet Exchange Point) português. Este assegura a
+- gigapix - Ponto de Troca de Tráfego (Internet Exchange Point) português. Este assegura a
 qualidade das interligações das redes em Portugal e evita recorrer a recursos internacionais para
 trânsito de pacotes IP com origem e destino em Portugal. Está representado na rede pelos nós
 de Lisboa e do Porto (gigapix-lisboa e gigapix-porto) conectados com fibra óptica gigabit e que
 também asseguram a interligação internacional.
-- isp-x — ISP (Internet Service Provider) com três nós em Lisboa, Porto e Braga contratado pela
+- isp-x - ISP (Internet Service Provider) com três nós em Lisboa, Porto e Braga contratado pela
 empresa abc para disponibilizar acesso à rede.
-- isp-y — ISP (Internet Service Provider) apenas com um nó em Lisboa disponibiliza serviços de
+- isp-y - ISP (Internet Service Provider) apenas com um nó em Lisboa disponibiliza serviços de
 acesso para clientes residenciais. Aqui representados por casa/pc1-casa.
-- rossiya/isp-z — Ponto de acesso nacional russo e ISP (Internet Service Provider) através dos nós
+- rossiya/isp-z - Ponto de acesso nacional russo e ISP (Internet Service Provider) através dos nós
 rossiya e isp-z disponibiliza acesso para clientes locais representados por dom-x/kompyuter-x.
-- abc — Empresa abc que utiliza os serviços de rede disponibilizados pelo ISP isp-x tem escritórios
+- abc - Empresa abc que utiliza os serviços de rede disponibilizados pelo ISP isp-x tem escritórios
 em Braga e Lisboa.
-- google — Serviços Google de email, DNS e de pesquisa disponíveis.
-- INTERNET — Representa a Internet na topologia de modo a interligar as várias infraestruturas e
+- google - Serviços Google de email, DNS e de pesquisa disponíveis.
+- INTERNET - Representa a Internet na topologia de modo a interligar as várias infraestruturas e
 serviços em frame-relay.
 
 <img width="1682" height="595" alt="image" src="https://github.com/user-attachments/assets/cad77a32-7722-48e1-97ee-3eec7de4d4b2" />
